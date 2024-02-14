@@ -1,0 +1,10 @@
+{
+  "name": "sms",
+  "version": "5.5.0",
+  "description": "SMS plugin",
+ 
+  "devDependencies": {},
+
+  "author": "INTRA",
+  "license": "MIT"
+}

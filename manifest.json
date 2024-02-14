@@ -1,0 +1,7 @@
+{
+  "name": "sms",
+  "description": "Sms via gammu",
+  "service": "sendinfo",
+  "single": 1,
+  "nochannels": 1
+}
